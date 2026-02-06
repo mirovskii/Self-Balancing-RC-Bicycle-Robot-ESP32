@@ -12,7 +12,7 @@ This project involves the design, construction, and control of a two-wheeled rob
 ## System Architecture
 The robot maintains balance by adjusting its center of mass through precision steering maneuvers. The ESP32 reads tilt data via I2C, processes it through the PID filter, and outputs PWM signals to the steering servo.
 
-[General Circuit Diagram](total crt.png)
+[General Circuit Diagram](total_crt.png)
 
 ## Control Logic & Signal Processing
 - **Sampling Time:** 2ms (500Hz) control loop for rapid response.
