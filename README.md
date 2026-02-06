@@ -31,3 +31,6 @@ Engineering is an iterative process. During the testing phase, the following cha
 - DRV8833 Dual Motor Driver
 - N20 DC Gear Motor
 - SG90 Micro Servo
+
+## Note on Collaboration
+This is a group project developed for the **Robotics Course**.
